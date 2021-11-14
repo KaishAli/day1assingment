@@ -1,0 +1,108 @@
+body{
+    background:url(https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg?cs=srgb&dl=pexels-pixabay-315755.jpg&fm=jpg=);
+}
+#head{
+   
+    border: 2px solid rgb(214, 161, 15);
+    background: rgb(221, 230, 255);
+    text-align: center;
+    font-family: 'Yuji Mai', serif;
+    font-size: 30px;  
+    
+}
+
+#techy{
+    color: rgb(231, 24, 24); 
+    text-decoration: none;
+}
+#home{
+    color: rgb(250, 234, 4);
+}
+#home:hover{
+    color:darkred;
+}
+
+.menu{
+    display: inline-block;
+    text-decoration: none;
+}
+
+#nav{
+    border: 2px solid red;
+    margin-top: 10px;
+    text-align: center; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    background-color: white;
+}
+
+#sec{
+    display: inline-block
+}
+
+#section{
+    display: inline-block;
+    border: 2px solid black;
+    margin-top: 10px;
+    width: 480px;
+    height: 300px;
+    border-radius: 10px;
+    background-image: url(https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+
+#content{
+    color: rgb(14, 16, 19);
+    font-family: 'Yuji Mai', serif;
+
+}
+.con{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+
+#para{
+    color: white;
+}
+
+#container{
+    
+    margin-top: 10px;
+    border-radius: 10px;
+    float: right;
+
+    border: 2px solid rebeccapurple;
+    width: 700px;
+    height: 830px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-image: url(https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+
+#article{
+    display: inline-block;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid rgb(202, 205, 50);
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 585px;
+    height: 400px;
+    background-image: url(https://images.pexels.com/photos/326279/pexels-photo-326279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+
+#footer{
+    background-color: rgb(245, 142, 223);
+    color: rgb(230, 240, 227);
+    margin-top: 10px;
+    padding: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    border-radius: 5px;
+  
+    
+}
+#foot{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
